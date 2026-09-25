@@ -10,6 +10,7 @@ I'm an Information Technology student at Georgia Gwinnett College concentrating 
 ## Java projects
 
 - [Moving Shapes](https://github.com/Drcheco/moving-shapes-jav) — a Java Swing animation with a rectangle, circle, and triangle
+- [Java Word Counter](https://github.com/Drcheco/java-word-counter) — a console app that counts words and shows their frequency
 
 ## About me
 
