@@ -9,8 +9,8 @@ I'm an Information Technology student at Georgia Gwinnett College concentrating 
 
 ## Java projects
 
-- [Moving Shapes](https://github.com/Drcheco/moving-shapes-jav) — a Java Swing animation with a rectangle, circle, and triangle
-- [Java Word Counter](https://github.com/Drcheco/java-word-counter) — a console app that counts words and shows their frequency
+- [Moving Shapes](https://github.com/fkwofie-dev/moving-shapes-jav) — a Java Swing animation with a rectangle, circle, and triangle
+- [Java Word Counter](https://github.com/fkwofie-dev/java-word-counter) — a console app that counts words and shows their frequency
 
 ## About me
 
@@ -18,4 +18,4 @@ I work as a shift manager, where I've learned to communicate clearly, solve prob
 
 ## Connect
 
-- **GitHub:** [@Drcheco](https://github.com/Drcheco)
+- **GitHub:** [@fkwofie-dev](https://github.com/fkwofie-dev)
