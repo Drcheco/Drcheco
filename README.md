@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Francis 👋
 
-<!--
-**Drcheco/Drcheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student at Georgia Gwinnett College concentrating in software development. I enjoy building practical projects and learning how to make software clear, useful, and reliable.
 
-Here are some ideas to get you started:
+## What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Python, JavaScript, HTML, CSS
+- **Areas of interest:** Software development, web development, and databases
+- **Currently learning:** Building stronger projects and improving my problem-solving skills
+
+## About me
+
+My experience leading teams as a shift manager has taught me how to communicate clearly, solve problems under pressure, and help people work together. I bring that same mindset to software development.
+
+I'm building out this GitHub profile with coursework and personal projects. Check back as I add more work.
+
+## Connect
+
+- **GitHub:** [@Drcheco](https://github.com/Drcheco)
