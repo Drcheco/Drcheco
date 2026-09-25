@@ -1,18 +1,17 @@
 # Hi, I'm Francis 👋
 
-I'm an Information Technology student at Georgia Gwinnett College concentrating in software development. I enjoy building practical projects and learning how to make software clear, useful, and reliable.
+I'm an Information Technology student at Georgia Gwinnett College concentrating in software development. I'm focused on learning Java and building practical projects with it.
 
-## What I'm working with
+## What I'm working on
 
-- **Languages:** Java, Python, JavaScript, HTML, CSS
-- **Areas of interest:** Software development, web development, and databases
-- **Currently learning:** Building stronger projects and improving my problem-solving skills
+- Strengthening my Java programming and problem-solving skills
+- Building a portfolio of Java coursework and personal projects
 
 ## About me
 
 My experience leading teams as a shift manager has taught me how to communicate clearly, solve problems under pressure, and help people work together. I bring that same mindset to software development.
 
-I'm building out this GitHub profile with coursework and personal projects. Check back as I add more work.
+I'm building out this GitHub profile as I add Java projects.
 
 ## Connect
 
